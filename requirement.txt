@@ -1,0 +1,9 @@
+Flask
+flask-cors
+SpeechRecognition
+nltk
+scikit-learn
+numpy
+gunicorn
+pydub
+Werkzeug
